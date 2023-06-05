@@ -1,0 +1,4 @@
+1 mesa 
+luz 
+3 sillas 
+fruta

@@ -1,0 +1,4 @@
+la cocina tiene:
+1 refrigerador 
+1 estufa
+3 estantes
