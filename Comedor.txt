@@ -2,3 +2,5 @@
 luz 
 3 sillas 
 fruta
+
+5 sillas
